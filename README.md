@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5681playet
+- 👋 Hi, I’m @5681player
 - 👀 I’m interested in Programing Software
 - 🌱 I’m currently learning Using C++ And C#
 - 💞️ I’m looking to collaborate on Software Tools
